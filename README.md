@@ -2,114 +2,124 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Midhun NK</strong>
+  Hi, I'm <strong>Balaji Satya Sai Karthik</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<h3>Aspiring Software Engineer | Java & AI/ML | UI/UX Designer</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I'm a B.Tech 3rd Year student passionate about building strong foundations in Java and Data Structures & Algorithms.
+    I enjoy exploring AI/ML projects and designing clean UI/UX experiences using Figma.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎓_B.Tech_3rd_Year-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📚_DSA_in_Java-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Seeking_Internships-1e1e2e?style=for-the-badge" />
   </p>
-
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/users/midhun_n">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Midhun-Nk">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/midhun-nk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
 
+---
+
+## 💼 Internship Experience
+
+### 🚀 Personalized Fitness Plan Generator  
+**Internship Project – Infosys Springboard**
+
+**Tech Used:** Python, Streamlit, Hugging Face (LLM)
+
+**Description:**
+- Generates personalized fitness plans based on:
+  - BMI Index
+  - Equipment availability (Home / Gym / No Equipment)
+  - User fitness goals
+- Uses LLM integration for dynamic recommendations
+- Built with an interactive Streamlit interface
+
+---
 
 ## 🛠️ Skills
+
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+<h3>🧠 AI / ML</h3>
+
+<img src="https://skillicons.dev/icons?i=python" />
+<p>Streamlit • Hugging Face (LLM)</p>
+
 </td>
-
-
-
 </tr>
+
 <tr>
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
+<h3>🎨 UI / UX</h3>
+
+<img src="https://skillicons.dev/icons?i=figma" />
+<p>Canva</p>
 
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+<h3>🧰 Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gcp" />
 </td>
 </tr>
 </table>
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---
 
-## ❤️ Support Me
+## 🎯 Current Goals
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+- Master Core Java & Object-Oriented Programming
+- Improve DSA problem-solving skills
+- Build real-world Java backend projects
+- Gain internship experience in Software Development
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logoColor=white" />
   </a>
 </p>
+
+---
+
+✨ *"Consistency and continuous improvement build great software engineers."*
