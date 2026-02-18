@@ -1,81 +1,115 @@
-🚀 Karthik Balaji Satya Sai
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-🎓 B.Tech in Computer Science (AI & ML Specialization)
-🏫 Dadi Institute of Engineering & Technology
-📅 Expected Graduation: 2027
-🇮🇳 India
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Midhun NK</strong>
+</h1>
 
-👨‍💻 About Me
+<h3>Full Stack Developer | MERN • Python • Flutter</h3>
 
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, currently focused on building strong foundations in Data Structures & Algorithms using Java.
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-I am deeply interested in:
-	•	Data Structures & Algorithms
-	•	Artificial Intelligence
-	•	Machine Learning
-	•	Open Source
-	•	Problem Solving
+  <p>
+    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+  </p>
 
-Currently, I am strengthening my core programming skills and preparing to actively contribute to open-source projects.
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://dev.to/midhun-nk">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/midhun_n">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Midhun-Nk">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/mike.devlogs">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/midhun-nk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/mike_devlogs">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://youtube.com/EduMikeStudio">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
 
-💼 Internship Experience
+  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
 
-🧠 AI Intern – Infosys Springboard Mentorship Program
+<br clear="all" />
 
-Project: Fit Plan AI – Personalized Fitness Plan Generator
-Tech Stack: Python, Streamlit, Git, GitHub
-Deployment: Hugging Face Spaces
 
-🔗 Live Project:
-https://huggingface.co/spaces/Karthik71212/fit_plan
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
 
-About the Project:
-Fit Plan AI is a personalized fitness plan generator that provides customized workout and health recommendations based on user inputs.
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+<br/><br/>
 
-What I gained:
-	•	Practical exposure to AI-driven applications
-	•	Experience working under professional mentorship
-	•	Hands-on deployment experience
-	•	Better understanding of Python-based project structure
+</td>
 
-🛠️ Skills
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+</td>
 
-Programming Languages
-	•	Java – Beginner (Currently focusing on DSA)
-	•	Python – Beginner
 
-Database
-	•	MySQL – Basic understanding (keys, queries, relational concepts)
 
-Tools & Technologies
-	•	Git
-	•	GitHub
-	•	IntelliJ IDEA
-	•	VS Code
-	•	Command Line
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<br/><br/>
 
-📈 Current Focus
-	•	Mastering Data Structures & Algorithms in Java
-	•	Strengthening problem-solving skills
-	•	Preparing for open-source contributions
-	•	Building AI/ML-based projects in Python
+</td>
 
-💻 Problem Solving
-	•	Practicing coding problems on HackerRank (Java)
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+</td>
+</tr>
+</table>
+</p>
 
-🎯 2026 Goal
-	•	Actively contribute to open-source projects
-	•	Build strong AI/ML portfolio projects
-	•	Prepare for Google Summer of Code (GSoC)
+## 📊 GitHub Stats
 
-📬 Connect With Me
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+</div>
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/balaji-satya-sai-karthik-466a582b6/
+---
 
-📧 Email:
-khi28434@gmail.com
+## ❤️ Support Me
 
-🤗 Hugging Face:
-https://huggingface.co/spaces/Karthik71212/fit_plan
+<p align="center">
+  <a href="https://www.buymeacoffee.com/midhun_mike">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
