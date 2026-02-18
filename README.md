@@ -38,7 +38,7 @@
   - BMI Index
   - Equipment availability (Home / Gym / No Equipment)
   - User fitness goals
-- Uses LLM integration for dynamic recommendations
+- Uses LLM integration for intelligent recommendations
 - Built with an interactive Streamlit interface
 
 ---
@@ -88,9 +88,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=karthik457718&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik457718&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---
@@ -100,22 +100,23 @@
 - Master Core Java & Object-Oriented Programming
 - Improve DSA problem-solving skills
 - Build real-world Java backend projects
-- Gain internship experience in Software Development
+- Secure a Software Development Internship
+- Become a Full-Time Software Engineer
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/karthik457718">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/balaji-satya-sai-karthik-466a582b6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:khi28434@gmail.com">
     <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logoColor=white" />
   </a>
 </p>
