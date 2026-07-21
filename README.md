@@ -16,9 +16,9 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🎓_B.Tech_3rd_Year-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎓_B.Tech_Final Year-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/📚_DSA_in_Java-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀_Seeking_Internships-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Seeking a Full-time oppurtunity in reputated company -1e1e2e?style=for-the-badge" />
   </p>
 </div>
 
@@ -95,12 +95,12 @@
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Goals 
 
 - Master Core Java & Object-Oriented Programming
 - Improve DSA problem-solving skills
 - Build real-world Java backend projects
-- Secure a Software Development Internship
+- Secure a Software Development Internship or Full-Time at reputated company
 - Become a Full-Time Software Engineer
 
 ---
