@@ -11,7 +11,7 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a B.Tech 3rd Year student passionate about building strong foundations in Java and Data Structures & Algorithms.
+    I'm a B.Tech  Final-year student passionate about building strong foundations in Java and Data Structures & Algorithms.
     I enjoy exploring AI/ML projects and designing clean UI/UX experiences using Figma.
   </p>
 
@@ -29,7 +29,7 @@
 ## 💼 Internship Experience
 
 ### 🚀 Personalized Fitness Plan Generator  
-**Internship Project – Infosys Springboard**
+**Internship Project – Via Infosys Springboard**
 
 **Tech Used:** Python, Streamlit, Hugging Face (LLM)
 
@@ -51,7 +51,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,c++" />
 <br/><br/>
 
 </td>
