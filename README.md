@@ -5,41 +5,85 @@
   Hi, I'm <strong>Balaji Satya Sai Karthik</strong>
 </h1>
 
-<h3>Aspiring Software Engineer | Java & AI/ML | UI/UX Designer</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=false&vCenter=true&width=600&lines=Final-Year+B.Tech+CSE+(AI%2FML)+Student;Java+%26+DSA+Enthusiast;Building+AI%2FML-Powered+Applications;Open+to+Full-Time+SDE+%2F+AIML+Roles" alt="Typing SVG" />
+</p>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
   <p>
-    I'm a B.Tech  Final-year student passionate about building strong foundations in Java and Data Structures & Algorithms.
-    I enjoy exploring AI/ML projects and designing clean UI/UX experiences using Figma.
+    I'm a <strong>final-year B.Tech CSE (AI/ML) student</strong>, graduating in 2027, passionate about building strong foundations in Java and Data Structures & Algorithms.
+    I enjoy building AI/ML-powered applications and shipping them end-to-end, from backend logic to a usable interface.
   </p>
-
   <p>
-    <img src="https://img.shields.io/badge/🎓_B.Tech_Final Year-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎓_Final_Year_%E2%80%94_Graduating_2027-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/📚_DSA_in_Java-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀_Seeking a Full-time oppurtunity in reputated company -1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Open_to_Full--Time_SDE_%2F_AIML_Roles-1e1e2e?style=for-the-badge" />
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=karthik457718&label=Profile+Views&color=A78BFA&style=for-the-badge" />
   </p>
 </div>
-
 <br clear="all" />
 
 ---
 
 ## 💼 Internship Experience
 
-### 🚀 Personalized Fitness Plan Generator  
-**Internship Project – Via Infosys Springboard**
+### 🚀 FitPlan Pro — AI-Powered Fitness Plan Generator
+**Internship Project – Infosys Springboard 6.0**
 
-**Tech Used:** Python, Streamlit, Hugging Face (LLM)
+**Tech Used:** Python, Streamlit, Groq API (LLaMA-3.1), Supabase/PostgreSQL, Brevo (OTP auth), Docker, HuggingFace Spaces
 
 **Description:**
-- Generates personalized fitness plans based on:
-  - BMI Index
-  - Equipment availability (Home / Gym / No Equipment)
-  - User fitness goals
-- Uses LLM integration for intelligent recommendations
-- Built with an interactive Streamlit interface
+- Generates personalized fitness plans based on BMI, available equipment (Home / Gym / No Equipment), and user fitness goals
+- Integrates an LLM (via Groq) to generate intelligent, context-aware recommendations
+- Implements OTP-based user authentication with Supabase/PostgreSQL as the backing store
+- Containerized with Docker and deployed on HuggingFace Spaces
+- Fixed 40+ bugs across 15 files during a mentor-led sprint cycle with daily standups
+
+---
+
+## 🚧 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🩺 HealthForecast AI** `In Progress`
+Multi-role hospital readmission risk prediction platform — 4 RBAC roles, 7 modules, FastAPI + React/Next.js, dual DB (PostgreSQL + MongoDB), JWT auth, Docker.
+
+`FastAPI` `React` `PostgreSQL` `MongoDB` `Docker`
+
+</td>
+<td width="50%">
+
+**🔎 QueryMind** `In Progress`
+Natural-language-to-SQL pipeline using Groq API (LLaMA-3.3-70B) over a synthetic 7-table e-commerce database, with schema-aware query generation.
+
+`Python` `Groq API` `LLaMA-3.3` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🗄️ Mini Redis** `In Progress`
+A Redis clone built from scratch in plain Java — currently implements a TCP server and RESP protocol parsing, working up to full command dispatch.
+
+`Java` `Networking` `RESP Protocol`
+
+</td>
+<td width="50%">
+
+**🏋️ FitPlan Pro** `Completed`
+AI-powered fitness plan generator built during Infosys Springboard 6.0 — BMI/goal-based plans via Groq/LLaMA, OTP auth, deployed on HuggingFace Spaces.
+
+`Python` `Streamlit` `Groq API` `Supabase` `Docker`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,34 +94,24 @@
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,c++" />
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,cpp" />
 <br/><br/>
-
 </td>
-
 <td width="50%" align="center">
 <h3>🧠 AI / ML</h3>
-
 <img src="https://skillicons.dev/icons?i=python" />
-<p>Streamlit • Hugging Face (LLM)</p>
-
+<p>Streamlit • Groq / LLaMA • Scikit-learn</p>
 </td>
 </tr>
-
 <tr>
 <td width="50%" align="center">
-<h3>🎨 UI / UX</h3>
-
+<h3>🎨 Design</h3>
 <img src="https://skillicons.dev/icons?i=figma" />
 <p>Canva</p>
-
 </td>
-
 <td width="50%" align="center">
-<h3>🧰 Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gcp" />
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,gcp" />
 </td>
 </tr>
 </table>
@@ -88,20 +122,28 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik457718&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik457718&layout=compact&theme=dark&hide_border=true" height="165" />
+  <br/>
   <img src="https://streak-stats.demolab.com?user=karthik457718&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik457718&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karthik457718&theme=darkhub&no-frame=true&row=1&column=6" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/karthik457718/karthik457718/output/github-contribution-grid-snake.svg" />
+</div>
+
+> The snake animation above needs a one-time GitHub Actions setup — see below.
 
 ---
 
-## 🎯 Current Goals 
+## 🎯 Current Goals
 
 - Master Core Java & Object-Oriented Programming
-- Improve DSA problem-solving skills
-- Build real-world Java backend projects
-- Secure a Software Development Internship or Full-Time at reputated company
-- Become a Full-Time Software Engineer
+- Sharpen DSA problem-solving skills
+- Build real-world backend projects (currently working on a hospital readmission risk prediction platform)
+- Secure a Software Development / AI-ML Engineer role at a reputed company
 
 ---
 
@@ -109,15 +151,13 @@
 
 <p align="left">
   <a href="https://github.com/karthik457718">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/balaji-satya-sai-karthik-466a582b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:khi28434@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
