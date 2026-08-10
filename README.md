@@ -5,23 +5,18 @@
   Hi, I'm <strong>Balaji Satya Sai Karthik</strong>
 </h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=false&vCenter=true&width=600&lines=Final-Year+B.Tech+CSE+(AI%2FML)+Student;Java+%26+DSA+Enthusiast;Building+AI%2FML-Powered+Applications;Open+to+Full-Time+SDE+%2F+AIML+Roles" alt="Typing SVG" />
-</p>
+<h3>Final-Year B.Tech CSE (AI/ML) Student | Java & AI/ML</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
   <p>
-    I'm a <strong>final-year B.Tech CSE (AI/ML) student</strong>, graduating in 2027, passionate about building strong foundations in Java and Data Structures & Algorithms.
+    I'm a final-year B.Tech CSE (AI/ML) student, graduating in 2027, passionate about building strong foundations in Java and Data Structures & Algorithms.
     I enjoy building AI/ML-powered applications and shipping them end-to-end, from backend logic to a usable interface.
   </p>
   <p>
     <img src="https://img.shields.io/badge/🎓_Final_Year_%E2%80%94_Graduating_2027-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/📚_DSA_in_Java-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🚀_Open_to_Full--Time_SDE_%2F_AIML_Roles-1e1e2e?style=for-the-badge" />
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=karthik457718&label=Profile+Views&color=A78BFA&style=for-the-badge" />
   </p>
 </div>
 <br clear="all" />
@@ -46,44 +41,21 @@
 
 ## 🚧 Projects
 
-<table>
-<tr>
-<td width="50%">
-
 **🩺 HealthForecast AI** `In Progress`
 Multi-role hospital readmission risk prediction platform — 4 RBAC roles, 7 modules, FastAPI + React/Next.js, dual DB (PostgreSQL + MongoDB), JWT auth, Docker.
-
 `FastAPI` `React` `PostgreSQL` `MongoDB` `Docker`
-
-</td>
-<td width="50%">
 
 **🔎 QueryMind** `In Progress`
 Natural-language-to-SQL pipeline using Groq API (LLaMA-3.3-70B) over a synthetic 7-table e-commerce database, with schema-aware query generation.
-
 `Python` `Groq API` `LLaMA-3.3` `SQLite`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 **🗄️ Mini Redis** `In Progress`
 A Redis clone built from scratch in plain Java — currently implements a TCP server and RESP protocol parsing, working up to full command dispatch.
-
 `Java` `Networking` `RESP Protocol`
-
-</td>
-<td width="50%">
 
 **🏋️ FitPlan Pro** `Completed`
 AI-powered fitness plan generator built during Infosys Springboard 6.0 — BMI/goal-based plans via Groq/LLaMA, OTP auth, deployed on HuggingFace Spaces.
-
 `Python` `Streamlit` `Groq API` `Supabase` `Docker`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -122,19 +94,10 @@ AI-powered fitness plan generator built during Infosys Springboard 6.0 — BMI/g
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik457718&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik457718&layout=compact&theme=dark&hide_border=true" height="165" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=karthik457718&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=karthik457718&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik457718&layout=compact&theme=dark&hide_border=true" />
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/karthik457718/karthik457718/output/github-contribution-grid-snake.svg" />
-</div>
-
-> The snake animation above needs a one-time GitHub Actions setup — see below.
 
 ---
 
