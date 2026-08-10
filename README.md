@@ -99,6 +99,10 @@ AI-powered fitness plan generator built during Infosys Springboard 6.0 — BMI/g
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik457718&layout=compact&theme=dark&hide_border=true" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/karthik457718/karthik457718/output/github-contribution-grid-snake.svg" />
+</div>
+
 ---
 
 ## 🎯 Current Goals
