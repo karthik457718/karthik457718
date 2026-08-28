@@ -184,24 +184,11 @@ Canva
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karthik457718&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik457718&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=karthik457718&theme=dark&hide_border=true" alt="Streak stats"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=karthik457718&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/karthik457718/karthik457718/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
-> **Note:** these four badges above run on shared free public services (Vercel/demolab) that occasionally rate-limit or go down — if any show broken, it's the service, not your markdown. Self-hosting your own `github-readme-stats` deploy fixes it permanently.
+> The stats/streak/trophy badges (github-readme-stats.vercel.app, streak-stats.demolab.com) are pulled — their shared Vercel/demolab instances are broken on GitHub's own render right now, not just intermittently. Dropped them rather than ship broken badges. If you want them back, the reliable fix is deploying your own instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) to your own Vercel account, then pointing the `<img>` src at your own deployment URL instead of the public one.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:6D28D9&height=3&section=header&width=100%" width="100%"/>
