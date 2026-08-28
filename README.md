@@ -1,164 +1,240 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<div align="center">
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Balaji Satya Sai Karthik</strong>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6D28D9&height=220&section=header&text=Hi%20There%20%F0%9F%91%8B%20I'm%20Karthik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Final-Year%20B.Tech%20CSE%20(AI%2FML)%20%7C%20Building%20end-to-end%20AI%20applications&descAlignY=55&descSize=16" width="100%"/>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=false&vCenter=true&width=600&lines=Final-Year+B.Tech+CSE+(AI%2FML)+Student;Java+%26+DSA+Enthusiast;Building+AI%2FML-Powered+Applications;Open+to+Full-Time+SDE+%2F+AIML+Roles" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final-Year+B.Tech+CSE+(AI%2FML)+Student;Java+%26+DSA+Enthusiast;Building+AI%2FML-Powered+Applications;Open+to+Full-Time+SDE+%2F+AIML+Roles" alt="Typing SVG" title="Hover pauses nothing here — but it keeps looping!" />
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-  <p>
-    I'm a <strong>final-year B.Tech CSE (AI/ML) student</strong>, graduating in 2027, passionate about building strong foundations in Java and Data Structures & Algorithms.
-    I enjoy building AI/ML-powered applications and shipping them end-to-end, from backend logic to a usable interface.
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/🎓_Final_Year_%E2%80%94_Graduating_2027-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/📚_DSA_in_Java-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀_Open_to_Full--Time_SDE_%2F_AIML_Roles-1e1e2e?style=for-the-badge" />
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=karthik457718&label=Profile+Views&color=A78BFA&style=for-the-badge" />
-  </p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=karthik457718&label=Profile%20Views&color=A78BFA&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/karthik457718?label=Followers&style=for-the-badge&color=A78BFA" alt="Followers" />
+
 </div>
-<br clear="all" />
 
----
+<br/>
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" title="Just here for the vibes ✨"/>
+
+## 🧑‍💻 About Me
+
+I'm a **final-year B.Tech CSE (AI/ML) student**, graduating in 2027, building strong foundations in **Java and Data Structures & Algorithms** while shipping full **AI/ML-powered applications end-to-end** — backend logic, model integration, and a usable interface.
+
+- 🎓 GfG Campus Mantri at DIET · GFG Institution Rank **#4**
+- 🌟 Selected for the **McKinsey.org Forward Program**
+- 🔭 Currently building **HealthForecast AI**, a multi-role hospital readmission risk platform
+- 🧠 Also deep in **QueryMind**, a natural-language-to-SQL engine
+- 🚀 Open to **Full-Time SDE / AI-ML Engineer** roles
+
+<br clear="right"/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:6D28D9&height=3&section=header&width=100%" width="100%"/>
+</div>
 
 ## 💼 Internship Experience
 
-### 🚀 FitPlan Pro — AI-Powered Fitness Plan Generator
-**Internship Project – Infosys Springboard 6.0**
-
-**Tech Used:** Python, Streamlit, Groq API (LLaMA-3.1), Supabase/PostgreSQL, Brevo (OTP auth), Docker, HuggingFace Spaces
-
-**Description:**
-- Generates personalized fitness plans based on BMI, available equipment (Home / Gym / No Equipment), and user fitness goals
-- Integrates an LLM (via Groq) to generate intelligent, context-aware recommendations
-- Implements OTP-based user authentication with Supabase/PostgreSQL as the backing store
-- Containerized with Docker and deployed on HuggingFace Spaces
-- Fixed 40+ bugs across 15 files during a mentor-led sprint cycle with daily standups
-
----
-
-## 🚧 Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td>
 
-**🩺 HealthForecast AI** `In Progress`
-Multi-role hospital readmission risk prediction platform — 4 RBAC roles, 7 modules, FastAPI + React/Next.js, dual DB (PostgreSQL + MongoDB), JWT auth, Docker.
+### 🏋️ FitPlan Pro — AI-Powered Fitness Plan Generator
+**Infosys Springboard 6.0 Internship**
 
-`FastAPI` `React` `PostgreSQL` `MongoDB` `Docker`
+<details>
+<summary><b>▸ Click to expand full details</b></summary>
+<br/>
 
-</td>
-<td width="50%">
-
-**🔎 QueryMind** `In Progress`
-Natural-language-to-SQL pipeline using Groq API (LLaMA-3.3-70B) over a synthetic 7-table e-commerce database, with schema-aware query generation.
-
-`Python` `Groq API` `LLaMA-3.3` `SQLite`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🗄️ Mini Redis** `In Progress`
-A Redis clone built from scratch in plain Java — currently implements a TCP server and RESP protocol parsing, working up to full command dispatch.
-
-`Java` `Networking` `RESP Protocol`
-
-</td>
-<td width="50%">
-
-**🏋️ FitPlan Pro** `Completed`
-AI-powered fitness plan generator built during Infosys Springboard 6.0 — BMI/goal-based plans via Groq/LLaMA, OTP auth, deployed on HuggingFace Spaces.
+- Generates personalized fitness plans based on **BMI**, available equipment (Home / Gym / No Equipment), and user fitness goals
+- Integrates **Groq API (LLaMA-3.1)** for intelligent, context-aware recommendations
+- OTP-based auth with **Supabase/PostgreSQL** as the backing store
+- Containerized with **Docker**, deployed on **HuggingFace Spaces**
+- Fixed **40+ bugs across 15 files** during a mentor-led sprint cycle with daily standups
 
 `Python` `Streamlit` `Groq API` `Supabase` `Docker`
 
+</details>
+
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:6D28D9&height=3&section=header&width=100%" width="100%"/>
+</div>
+
+## 🚧 Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🩺 HealthForecast AI** &nbsp; ![status](https://img.shields.io/badge/status-in--progress-A78BFA?style=flat-square)
+
+Multi-role hospital readmission risk prediction platform.
+
+<details>
+<summary><b>▸ Details</b></summary>
+<br/>
+
+- 4 RBAC roles: Doctor, Hospital Administrator, Healthcare Researcher, System Administrator
+- 7 modules including Risk Prediction, Clinical Decision Support, and an Analytics Dashboard
+- Dual database: **PostgreSQL + MongoDB**
+- **FastAPI** backend, **React/Next.js + Tailwind** frontend, JWT auth, Docker, AWS/Azure
+- Trained on the UCI Diabetes 130-US Hospitals dataset
+- Following an 8-week, 4-milestone build plan
+
+`FastAPI` `React` `Next.js` `PostgreSQL` `MongoDB` `Docker`
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+**🔎 QueryMind** &nbsp; ![status](https://img.shields.io/badge/status-in--progress-A78BFA?style=flat-square)
+
+Natural-language-to-SQL web app over your own live database.
+
+<details>
+<summary><b>▸ Details</b></summary>
+<br/>
+
+- Connect your own live **Postgres/MySQL** database, then query it in plain language
+- LLM-powered SQL generation via **Groq (openai/gpt-oss-120b)**, validated SELECT-only with `sqlglot`
+- FastAPI backend with Fernet-encrypted credential storage and OTP auth
+- Next.js 16 + TypeScript frontend with a custom "Aurora Ledger" design system — animated orbs, 3D tilt cards, glass morphism
+
+`FastAPI` `Next.js` `TypeScript` `Groq API` `PostgreSQL`
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗄️ Mini Redis** &nbsp; ![status](https://img.shields.io/badge/status-in--progress-A78BFA?style=flat-square)
+
+A Redis clone built from scratch in plain Java.
+
+<details>
+<summary><b>▸ Details</b></summary>
+<br/>
+
+- TCP server implemented from the ground up
+- RESP protocol parsing
+- Working toward full command dispatch
+
+`Java` `Networking` `RESP Protocol`
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+**🏋️ FitPlan Pro** &nbsp; ![status](https://img.shields.io/badge/status-completed-22C55E?style=flat-square)
+
+AI-powered fitness plan generator from Infosys Springboard 6.0.
+
+<details>
+<summary><b>▸ Details</b></summary>
+<br/>
+
+- BMI/goal-based plans generated via Groq/LLaMA
+- OTP authentication, deployed live on HuggingFace Spaces
+
+`Python` `Streamlit` `Groq API` `Supabase` `Docker`
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:6D28D9&height=3&section=header&width=100%" width="100%"/>
+</div>
 
 ## 🛠️ Skills
 
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,cpp" />
-<br/><br/>
-</td>
-<td width="50%" align="center">
-<h3>🧠 AI / ML</h3>
-<img src="https://skillicons.dev/icons?i=python" />
-<p>Streamlit • Groq / LLaMA • Scikit-learn</p>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<h3>🎨 Design</h3>
-<img src="https://skillicons.dev/icons?i=figma" />
-<p>Canva</p>
-</td>
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,gcp" />
-</td>
-</tr>
-</table>
-</p>
+<div align="center">
 
----
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,mysql" title="Click-through: these are just icons, but they know what they've been through"/>
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=python"/>
+<br/>
+Streamlit • Groq / LLaMA • Scikit-learn
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,gcp"/>
+
+### Design
+<img src="https://skillicons.dev/icons?i=figma"/>
+<br/>
+Canva
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:6D28D9&height=3&section=header&width=100%" width="100%"/>
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik457718&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik457718&layout=compact&theme=dark&hide_border=true" height="165" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=karthik457718&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=karthik457718&theme=darkhub&no-frame=true&row=1&column=6" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=karthik457718&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik457718&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=karthik457718&theme=dark&hide_border=true" alt="Streak stats"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=karthik457718&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/karthik457718/karthik457718/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+
 </div>
+
+> **Note:** these four badges above run on shared free public services (Vercel/demolab) that occasionally rate-limit or go down — if any show broken, it's the service, not your markdown. Self-hosting your own `github-readme-stats` deploy fixes it permanently.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/karthik457718/karthik457718/output/github-contribution-grid-snake.svg" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:6D28D9&height=3&section=header&width=100%" width="100%"/>
 </div>
-
----
 
 ## 🎯 Current Goals
 
-- Master Core Java & Object-Oriented Programming
-- Sharpen DSA problem-solving skills
-- Build real-world backend projects (currently working on a hospital readmission risk prediction platform)
-- Secure a Software Development / AI-ML Engineer role at a reputed company
+- 🧩 Master Core Java & Object-Oriented Programming
+- 📚 Sharpen DSA problem-solving skills
+- 🏗️ Ship HealthForecast AI and QueryMind end-to-end
+- 📈 Start a new end-to-end ML pipeline project: **Credit Risk Scoring with Explainability (SHAP)**
+- 💼 Secure a Software Development / AI-ML Engineer role at a reputed company
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:6D28D9&height=3&section=header&width=100%" width="100%"/>
+</div>
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/karthik457718">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/balaji-satya-sai-karthik-466a582b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:khi28434@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://github.com/karthik457718"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" title="karthik457718"/></a>
+<a href="https://www.linkedin.com/in/balaji-satya-sai-karthik-466a582b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Balaji Satya Sai Karthik"/></a>
+<a href="mailto:khi28434@gmail.com"><img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white" title="khi28434@gmail.com"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ✨ *"Consistency and continuous improvement build great software engineers."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:A78BFA&height=120&section=footer" width="100%"/>
+
+</div>
